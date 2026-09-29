@@ -1,0 +1,5 @@
+review_capacity_pct,probability_cutoff,risk_score_cutoff,orders_reviewed,actual_rtos_caught,recall_all_rtos,precision_reviewed,rto_rate_reviewed,rto_rate_not_reviewed,delivered_unnecessarily_reviewed,note
+5.0,0.5967352224728351,59.7,120,99,0.1213235294117647,0.825,0.825,0.3144736842105263,21,scenario only - not claimed optimal
+10.0,0.502745155885726,50.3,240,163,0.19975490196078433,0.6791666666666667,0.6791666666666667,0.3023148148148148,77,scenario only - not claimed optimal
+15.0,0.4564455039474732,45.6,360,218,0.26715686274509803,0.6055555555555555,0.6055555555555555,0.2931372549019608,142,scenario only - not claimed optimal
+20.0,0.4283154727989349,42.8,480,261,0.31985294117647056,0.54375,0.54375,0.2890625,219,scenario only - not claimed optimal
